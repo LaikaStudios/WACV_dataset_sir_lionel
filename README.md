@@ -1,5 +1,7 @@
 # Dataset for A Learning-Based Approach to Parametric Rotoscoping of Multi-Shape Systems, WACV 2021
 
+[![Methodology](methodology.png)](methodology.png)
+
 ## Licenses
 PLEASE NOTE: There are two licenses in this project.
 
